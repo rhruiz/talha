@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Talha::VERSION
   spec.authors       = ["Ricardo Hermida Ruiz"]
   spec.email         = ["rhruiz@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Venha, tesouro.}
+  spec.description   = %q{Não se misture com essa gem talha.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
